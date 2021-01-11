@@ -1,0 +1,2 @@
+﻿Add button to skip the current 
+Grey out eggs that you already have hatched
